@@ -98,6 +98,6 @@
 				</plugin>
 			  
 			</plugins>
-		<finalName>restauth2</finalName>
+		<finalName>SpringSecurityOAuth2Example</finalName>
 	</build>
 </project>
